@@ -1,0 +1,75 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+background-attachment: fixed;
+background-image: url("images/butterfly-on-plant-2342794.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+	
+}
+
+.center {
+    width: 1000px;
+	padding: 2%;
+    margin: 100px auto;
+ 	background: rgba(255, 255, 255, 0.65);
+	text-align: center;
+	border: 4px solid black;
+}
+
+   
+#logo {
+    margin-bottom: 16px;
+	border: 3px solid black;
+	text-align: center;
+}
+
+h1{
+	/*  adobe-garamond-pro, serif;  */
+	font-size: 2.25em;
+    margin: 30px auto 10px auto;
+	color: rgb(0, 0, 0);
+}
+
+h2{
+	/*  adobe-garamond-pro, serif;  */
+	font-size: 2.25em;
+    margin: 30px auto 10px auto;
+	color: rgb(0, 0, 0);
+}
+nav li{
+	font-family: adobe-garamond-pro, serif;
+	font-size: 1.2em;
+	
+	width: 500px;
+	padding: 2%;
+	margin: 10px auto;
+	background: rgba(0,0,0);
+	text-align: center;
+	margin-top: 2em;
+	}
+
+nav li{
+	display: inline;
+}
+
+nav a{
+	display: inline-block;
+	padding: 10px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover{
+	color:white;
+	background:grey ;
+}
+
+
